@@ -2,10 +2,10 @@
 #include <stdio.h>
 #include <time.h>
 
-/* more headers goes there */
 /**
- * main - pint alphabet in lower case and
- * then in  upper case
+ * main - prints alphabet in lowercase and
+ * then in uppercase
+ *
  * Return: Always 0.
  */
 
