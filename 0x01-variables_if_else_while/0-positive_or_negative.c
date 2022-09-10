@@ -1,8 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/*
- * main- print a randon number
+/**
+ * main- print a randon number is positive ,negative or zero
+ *
+ * Return:Always 0.
  */
 int main(void)
 
