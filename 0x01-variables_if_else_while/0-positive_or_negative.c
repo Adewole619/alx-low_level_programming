@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-
+/*
+ * main- print a randon number
+ */
 int main(void)
 
 {
