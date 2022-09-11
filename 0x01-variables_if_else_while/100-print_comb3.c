@@ -8,7 +8,7 @@
  * Return: Always 0 (Success)
  */
 
-int main(viod)
+int main(void)
 {
 	int d = 48, a = 48;
 
