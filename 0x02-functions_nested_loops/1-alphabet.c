@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print _alphabet in loweer case
+ * print_alphabet - Alphabet in loweer case
  *
  *Reture: Always 0.
  */
