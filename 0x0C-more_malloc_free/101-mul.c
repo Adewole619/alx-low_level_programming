@@ -129,7 +129,7 @@ int main(int argc, char *argv[])
 		;
 	ln = l1 + l2 + 1;
 
-	a = malloc(ln *sizeof(char));
+	a = malloc(ln * sizeof(char));
 
 	if (a == NULL)
 	{
