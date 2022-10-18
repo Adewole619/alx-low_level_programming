@@ -28,7 +28,6 @@ int main(int __attribute__((__unused__)) argc, char *argv[])
 	if (get_op_func(op) == NULL || op[1] != '\0')
 	{
 		printf("Error\n");
-
 		exit(99);
 	}
 
@@ -36,7 +35,6 @@ int main(int __attribute__((__unused__)) argc, char *argv[])
 	    (*op == '%' && num2 == 0))
 	{
 		printf("Error\n");
-
 		exit(100);
 	}
 
