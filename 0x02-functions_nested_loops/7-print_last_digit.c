@@ -2,7 +2,11 @@
 
 /*
  * print_last_digit - last digit of number
+ *
+ * Description: 'the program's description'
+ *
  * @n: input.
+ *
  * main - print last digit.
  *
  * Return: the last digit.
