@@ -3,7 +3,7 @@
 /**
  * cap_string - capitalizes chars in a string following a separator
  *
- * @c: character string pointer
+ * @str: character string pointer
  * Return: char pointer
  */
 
